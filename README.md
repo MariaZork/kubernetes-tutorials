@@ -13,4 +13,4 @@ You will also need to have Docker installed to build the Docker images used in t
 
 ## References
 
-1. Build and Deploy Your First Machine Learning Application with Kubernetes
+1. [Build and Deploy Your First Machine Learning Application with Kubernetes](https://medium.com/towards-artificial-intelligence/mlops-build-and-deploy-first-machine-learning-application-with-kubernetes-a528961fd0e7)
